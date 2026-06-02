@@ -50,7 +50,7 @@ HTTP Req │ │ Rendered JSP
    ┌───────────────┐
    │ MySQL Database│  ➔ Persistent Storage
    └───────────────┘
-
+```
 
 | Layer | Component Role | Technology Highlights |
 | --- | --- | --- |
