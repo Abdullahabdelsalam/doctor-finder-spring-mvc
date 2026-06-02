@@ -1,6 +1,3 @@
-تفضل، الكود كله بالكامل في بلوك واحد جاهز للنسخ المباشر لملف الـ `README.md`:
-
-```markdown
 # 🏥 Doctor Finder System (Spring MVC)
 
 A full-featured **Doctor Appointment Management System** inspired by real-world healthcare platforms like *Vezeeta*.  
